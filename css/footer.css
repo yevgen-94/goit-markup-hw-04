@@ -20,7 +20,7 @@ color: #f4f4fd;
 }
 .footer-container {
     display: flex;
-    align-items: baseline;
+    align-items: flex-start;
 }
 .footer-logo-wrapper {
     margin-right: 120px;
